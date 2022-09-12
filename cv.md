@@ -18,7 +18,7 @@
 
 *****
 
-## Skills and Courses: 
+## Education and Courses: 
 **HTML, CSS, JavaScript video courses by Jonas Schmedtmann on Udemy and YouTube** <br> <br>
 **React JS video course by ZeroToMaster on Udemy** <br> <br>
 **Figma**
